@@ -21,9 +21,10 @@ For at sikre en god proces beder vi dig følge disse trin:
 
 1.  **Søg først:** Tjek om dit emne allerede er oprettet under [Issues](../../issues).
 2.  **Vær præcis:** Giv dit issue en beskrivende titel.
-3.  **Giv detaljer:** * Ved **bugs**: Beskriv trin-for-trin hvordan fejlen opstår og vedhæft evt. systeminfo.
+3.  **Giv detaljer:** 
+    * Ved **bugs**: Beskriv trin-for-trin hvordan fejlen opstår og vedhæft evt. systeminfo.
     * Ved **features**: Forklar hvorfor funktionen ville være værdifuld.
-4.  **Brug Labels:** Marker dit opslag med f.eks. `bug`, `enhancement` eller `question`.
+5.  **Brug Labels:** Marker dit opslag med f.eks. `bug`, `enhancement` eller `question`.
 
 ---
 
