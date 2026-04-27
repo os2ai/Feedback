@@ -1,5 +1,3 @@
-# Feedback
-Her kan du rapportere fejl eller foreslå idéer til OS2ai
 # OS2ai Feedback 💬
 
 Velkommen til det officielle feedback-repository for OS2ai. Dette er stedet, hvor vi samler alle fejlrapporter, idéer og spørgsmål for at gøre projektet endnu bedre.
