@@ -13,6 +13,6 @@ As admin, go to "Administrationspanel" -> "Instillinger" -> "Modeller" -> "Insti
 
 ### 1. References
 
-[os2ai/Feedback/issues/9](https://github.com/os2ai/Feedback/issues/9)
-[open-webui/discussions/15710](https://github.com/open-webui/open-webui/discussions/15710)
-[open-webui/issues/15386#issuecomment-3070458502](https://github.com/open-webui/open-webui/issues/15386#issuecomment-3070458502)
+- [os2ai/Feedback/issues/9](https://github.com/os2ai/Feedback/issues/9)
+- [open-webui/discussions/15710](https://github.com/open-webui/open-webui/discussions/15710)
+- [open-webui/issues/15386#issuecomment-3070458502](https://github.com/open-webui/open-webui/issues/15386#issuecomment-3070458502)
