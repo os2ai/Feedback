@@ -2,7 +2,7 @@
 
 ## 1. Disable default prompt suggestions
 
-<img width="887" height="491" alt="billede" src="https://github.com/user-attachments/assets/4d7f29f4-f711-4830-8c9c-d421183efdd2" />
+![Image showing prompt suggestion ui](https://github.com/user-attachments/assets/4d7f29f4-f711-4830-8c9c-d421183efdd2)
 
 The "prompt suggestions can not be disabled via infrastruture configuration in openwebui.
 It can be overwritten by utilizing [DEFAULT_PROMPT_SUGGESTIONS](https://docs.openwebui.com/reference/env-configuration/#default_prompt_suggestions).
