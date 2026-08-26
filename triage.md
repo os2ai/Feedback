@@ -29,7 +29,7 @@ Disse typer af feedback håndteres ikke i dette repo:
 
 Vi forsøger som udgangspunkt at stille spørgsmål og finde mere information hvor det lader sig gøre over skrift.
 
-Hvis feedback tydeliggør at core-teamet har behov for mere viden indenfor områder der vedrører kommunerne, sætter vi møder op med kommuner der indvilligere, for at opbygge en dybere forståelse.
+Hvis feedback tydeliggør at core-teamet har behov for mere viden indenfor områder der vedrører kommunerne, sætter vi møder op med kommuner der indvilliger, for at opbygge en dybere forståelse.
 
 Vi fanger og forklarer vores refleksioner og proces på de relevante issues, så man som feedback-bidragyder løbende får information om fremgangen på ens issue.
 
