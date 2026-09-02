@@ -1,0 +1,50 @@
+name: Indmelding
+description: Meld et problem, et ønske eller en fejl ind. Går i indbakken og bliver behandlet af OS2ai core-team.
+body:
+  - type: input
+    id: myndighed
+    attributes:
+      label: Myndighed
+      description: Hvilken myndighed skriver du fra?
+    validations:
+      required: true
+
+  - type: input
+    id: kontakt
+    attributes:
+      label: Navn og rolle
+      description: Så vi ved, hvem vi kan vende tilbage til.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Hvad drejer det sig om?
+      options:
+        - Fejl - noget i OS2ai virker ikke
+        - Forbedring - en idé til ny funktion eller optimering af en eksisterende
+        - Spørgsmål - jeg har brug for hjælp
+        - Generel feedback - fx tanker om retningen for OS2ai
+    validations:
+      required: true
+
+  - type: textarea
+    id: beskrivelse
+    attributes:
+      label: Beskrivelse
+      description: Ved fejl, beskriv trin for trin hvad du gjorde, hvad der skete, og hvad du forventede. Ved forslag, beskriv hvad du gerne vil kunne.
+    validations:
+      required: true
+
+  - type: textarea
+    id: betydning
+    attributes:
+      label: Hvilken betydning har det for jer?
+      description: Hvis relevant: hvem rammes, hvor tit, og hvad kan I ikke gøre imens?
+
+  - type: input
+    id: version
+    attributes:
+      label: OS2ai-version
+      description: Valgfrit, men hjælper meget ved fejlsøgning.
