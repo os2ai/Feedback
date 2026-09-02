@@ -41,7 +41,7 @@ body:
     id: betydning
     attributes:
       label: Hvilken betydning har det for jer?
-      description: Hvis relevant: hvem rammes, hvor tit, og hvad kan I ikke gøre imens?
+      description: Hvis relevant - hvem rammes, hvor tit, og hvad kan I ikke gøre imens?
 
   - type: input
     id: version
