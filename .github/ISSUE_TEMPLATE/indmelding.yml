@@ -1,5 +1,5 @@
 name: Indmelding
-description: Meld et problem, et ønske eller en fejl ind. Går i indbakken og bliver behandlet af OS2ai core-team.
+description: Meld et problem, et ønske eller en fejl ind. Bliver efterfølgende behandlet af OS2ai core-team.
 body:
   - type: input
     id: myndighed
