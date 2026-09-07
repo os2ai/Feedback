@@ -1,0 +1,23 @@
+name: Add to OS2ai project
+
+on:
+  issues:
+    types: [opened, reopened, transferred]
+  # Use the base repository context so PRs from forks can access the secret.
+  # Do not add a checkout or execute code from the pull request here.
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions: {}
+
+jobs:
+  add-to-project:
+    if: github.repository == 'os2ai/Feedback' && (github.event.issue.state == 'open' || github.event.pull_request.state == 'open')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Add issue or pull request to OS2ai
+        uses: actions/add-to-project@5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd # v2.0.0
+        with:
+          project-url: https://github.com/orgs/os2ai/projects/1
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
